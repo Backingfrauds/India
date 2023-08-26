@@ -35,12 +35,8 @@ header{
 }
 .logo-text{
     font-family: Audiowide;
-    margin-top: 18vh;
     text-align: center;
 }
 .logo-text span{
     color: red;
-}
-.margining{
-    margin-top: 150px;
 }
